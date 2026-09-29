@@ -64,11 +64,11 @@ NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/
 
 **Johnny GUI — Hash loaded, password cracked (100% complete)**
 
-![Task 1 - Johnny cracking the PDF](task-1-a.png)
+![Task 1 - Johnny cracking the PDF](screenshots/task-1-a.png)
 
 **Unlocked PDF — Flag revealed**
 
-![Task 1 - Flag captured inside unlocked PDF](task-1-b.png)
+![Task 1 - Flag captured inside unlocked PDF](screenshots/task-1-b.png)
 
 ---
 
@@ -101,15 +101,15 @@ NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/
 
 **NetworkWalks Hash Calculator — PDF hash extracted**
 
-![Task 2 - Hash extracted from locked PDF](task-2-a.png)
+![Task 2 - Hash extracted from locked PDF](screenshots/task-2-a.png)
 
 **Dictionary Attack Lab — Hash pasted, attack ready**
 
-![Task 2 - Hash loaded into Dictionary Attack Lab](task-2-b.png)
+![Task 2 - Hash loaded into Dictionary Attack Lab](screenshots/task-2-b.png)
 
 **Attack running — Password matched at entry 91**
 
-![Task 2 - Password cracked: password1](task-2-c.png)
+![Task 2 - Password cracked: password1](screenshots/task-2-c.png)
 
 **Unlocked PDF — Second flag revealed**
 
