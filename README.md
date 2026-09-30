@@ -68,7 +68,7 @@ NETWORKWALKS-B083-WK3-PASSWORD-CRACKING/
 
 **Unlocked PDF — Flag revealed**
 
-![Task 1 - Flag captured inside unlocked PDF](screenshots/task-1-b.png)
+![Task 1 - Flag captured inside unlocked PDF](screenshots/tast-1-b.png)
 
 ---
 
